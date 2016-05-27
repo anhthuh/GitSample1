@@ -1,4 +1,4 @@
 *.dat
 results/
-!final.data
 *.data
+!final.data
